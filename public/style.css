@@ -1,0 +1,26 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+}
+img{
+  height: 200px;
+}
+
+.casino {
+  text-align: center;
+  background-image: url(../img/casino.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: auto;
+}
+
+.admin {
+  text-align: left;
+  background-image: url(../img/chips.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 800px;
+  color: darkblue;
+  text-align: center;
+}
